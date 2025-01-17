@@ -17,7 +17,7 @@ This project demonstrates the development of a multimodal AI application that ex
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/multimodal-ai-qa-bot.git
+   git clone https://github.com/zenithbhatt/multimodal-ai-qa-bot.git
 
 ## Key Technologies
 LangChain: Framework for building generative AI applications.
