@@ -21,12 +21,18 @@ This project demonstrates the development of a multimodal AI application that ex
 
 ## Key Technologies
 LangChain: Framework for building generative AI applications.
+
 OpenAI Whisper API: Converts audio to text.
+
 DocArray: Handles document storage and vectorization.
+
 yt_dlp: Downloads YouTube videos efficiently.
+
 tiktoken: Tokenizes text for embedding and processing.
 
 ## Future Enhancements
 Integration with a vector database like Pinecone or Weaviate.
+
 Support for multilingual transcription.
+
 Expansion to handle multiple video sources simultaneously
